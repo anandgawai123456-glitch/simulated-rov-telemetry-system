@@ -1,0 +1,202 @@
+[
+    {
+        "timestamp": "2026-11-09T03:06:06.334816+00:00",
+        "vehicle_mode": "MANUAL",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.2,
+        "depth_m": 8.0,
+        "roll_deg": 0.0,
+        "pitch_deg": 7.0,
+        "yaw_deg": -180.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.335081+00:00",
+        "vehicle_mode": "MANUAL",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.18,
+        "depth_m": 8.19,
+        "roll_deg": 1.24,
+        "pitch_deg": 6.9,
+        "yaw_deg": -177.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.335221+00:00",
+        "vehicle_mode": "MANUAL",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.17,
+        "depth_m": 8.37,
+        "roll_deg": 2.4,
+        "pitch_deg": 6.61,
+        "yaw_deg": -174.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.335301+00:00",
+        "vehicle_mode": "MANUAL",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.15,
+        "depth_m": 8.55,
+        "roll_deg": 3.41,
+        "pitch_deg": 6.14,
+        "yaw_deg": -171.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.335381+00:00",
+        "vehicle_mode": "MANUAL",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.14,
+        "depth_m": 8.72,
+        "roll_deg": 4.21,
+        "pitch_deg": 5.5,
+        "yaw_deg": -168.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.335462+00:00",
+        "vehicle_mode": "MANUAL",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.12,
+        "depth_m": 8.88,
+        "roll_deg": 4.74,
+        "pitch_deg": 4.71,
+        "yaw_deg": -165.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.335577+00:00",
+        "vehicle_mode": "MANUAL",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.11,
+        "depth_m": 9.02,
+        "roll_deg": 4.99,
+        "pitch_deg": 3.78,
+        "yaw_deg": -162.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.335632+00:00",
+        "vehicle_mode": "MANUAL",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.09,
+        "depth_m": 9.15,
+        "roll_deg": 4.92,
+        "pitch_deg": 2.75,
+        "yaw_deg": -159.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.335684+00:00",
+        "vehicle_mode": "MANUAL",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.08,
+        "depth_m": 9.26,
+        "roll_deg": 4.55,
+        "pitch_deg": 1.65,
+        "yaw_deg": -156.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.335734+00:00",
+        "vehicle_mode": "MANUAL",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.06,
+        "depth_m": 9.35,
+        "roll_deg": 3.89,
+        "pitch_deg": 0.5,
+        "yaw_deg": -153.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.335787+00:00",
+        "vehicle_mode": "STABILIZE",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.05,
+        "depth_m": 9.42,
+        "roll_deg": 2.99,
+        "pitch_deg": -0.67,
+        "yaw_deg": -150.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.335842+00:00",
+        "vehicle_mode": "STABILIZE",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.04,
+        "depth_m": 9.47,
+        "roll_deg": 1.91,
+        "pitch_deg": -1.82,
+        "yaw_deg": -147.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.335898+00:00",
+        "vehicle_mode": "STABILIZE",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.02,
+        "depth_m": 9.5,
+        "roll_deg": 0.71,
+        "pitch_deg": -2.91,
+        "yaw_deg": -144.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.336014+00:00",
+        "vehicle_mode": "STABILIZE",
+        "heartbeat_status": true,
+        "battery_voltage_v": 24.0,
+        "depth_m": 9.5,
+        "roll_deg": -0.54,
+        "pitch_deg": -3.93,
+        "yaw_deg": -141.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.336077+00:00",
+        "vehicle_mode": "STABILIZE",
+        "heartbeat_status": true,
+        "battery_voltage_v": 23.99,
+        "depth_m": 9.48,
+        "roll_deg": -1.75,
+        "pitch_deg": -4.84,
+        "yaw_deg": -138.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.336130+00:00",
+        "vehicle_mode": "STABILIZE",
+        "heartbeat_status": true,
+        "battery_voltage_v": 23.97,
+        "depth_m": 9.43,
+        "roll_deg": -2.86,
+        "pitch_deg": -5.61,
+        "yaw_deg": -135.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.336181+00:00",
+        "vehicle_mode": "STABILIZE",
+        "heartbeat_status": true,
+        "battery_voltage_v": 23.96,
+        "depth_m": 9.36,
+        "roll_deg": -3.78,
+        "pitch_deg": -6.23,
+        "yaw_deg": -132.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.336231+00:00",
+        "vehicle_mode": "STABILIZE",
+        "heartbeat_status": true,
+        "battery_voltage_v": 23.95,
+        "depth_m": 9.28,
+        "roll_deg": -4.47,
+        "pitch_deg": -6.67,
+        "yaw_deg": -129.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.336284+00:00",
+        "vehicle_mode": "STABILIZE",
+        "heartbeat_status": true,
+        "battery_voltage_v": 23.93,
+        "depth_m": 9.17,
+        "roll_deg": -4.89,
+        "pitch_deg": -6.93,
+        "yaw_deg": -126.0
+    },
+    {
+        "timestamp": "2026-11-09T03:06:06.336334+00:00",
+        "vehicle_mode": "STABILIZE",
+        "heartbeat_status": true,
+        "battery_voltage_v": 23.91,
+        "depth_m": 9.04,
+        "roll_deg": -5.0,
+        "pitch_deg": -7.0,
+        "yaw_deg": -123.0
+    }
+]

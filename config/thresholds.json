@@ -1,0 +1,9 @@
+{
+  "battery_warning_v": 21.0,
+  "battery_critical_v": 19.0,
+  "depth_min_m": 0.0,
+  "depth_max_m": 100.0,
+  "attitude_valid_deg": 180.0,
+  "attitude_warning_deg": 45.0,
+  "freshness_timeout_s": 3.0
+}
